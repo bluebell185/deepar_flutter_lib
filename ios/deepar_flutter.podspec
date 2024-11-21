@@ -3,11 +3,11 @@
 # Run `pod lib lint deepar.podspec` to validate before publishing.
 #
 Pod::Spec.new do |s|
-  s.name             = 'deepar_flutter'
-  s.version          = '0.0.5'
-  s.summary          = 'Offical Flutter SDK for DeepAR Plugin.'
+  s.name             = 'deepar_flutter_lib'
+  s.version          = '0.0.1'
+  s.summary          = 'Adapted Flutter SDK for DeepAR Plugin.'
   s.description      = <<-DESC
-Official Flutter SDK for DeepAR Plugin.
+Adapted Flutter SDK for DeepAR Plugin.
                        DESC
   s.homepage         = 'http://deepar.ai'
   s.license          = { :file => '../LICENSE' }
