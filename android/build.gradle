@@ -25,9 +25,7 @@ rootProject.allprojects {
 apply plugin: 'com.android.library'
 
 android {
-    if (project.android.hasProperty("namespace")) {
-        namespace 'com.example.deepar_flutter_lib'
-    }
+    namespace "com.example.deepar_flutter_lib"
 
     compileSdkVersion 31
 
