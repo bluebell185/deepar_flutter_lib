@@ -30,7 +30,7 @@ flutter:
   plugin:
     platforms:
       android:
-        package: com.deepar.flutter.lib
+        package: com.project.deepar_flutter_lib
         pluginClass: DeepArPlugin
       ios:
         pluginClass: DeepArPlugin
