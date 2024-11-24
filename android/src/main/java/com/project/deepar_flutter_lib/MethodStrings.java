@@ -1,4 +1,4 @@
-package com.deepar.ai;
+package com.project.deepar_flutter_lib;
 
 public  class MethodStrings {
 

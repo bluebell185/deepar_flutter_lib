@@ -1,4 +1,4 @@
-package com.deepar.ai;
+package com.project.deepar_flutter_lib;
 
 import android.app.Activity;
 import android.content.pm.ActivityInfo;

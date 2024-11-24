@@ -1,4 +1,4 @@
-package com.deepar.ai;
+package com.project.deepar_flutter_lib;
 
 import androidx.annotation.NonNull;
 import android.app.Activity;
