@@ -18,7 +18,7 @@ class _DeepArPreviewState extends State<DeepArPreview> {
   Widget build(BuildContext context) {
     return Center(
       child: AspectRatio(
-          aspectRatio: (1 / widget.deepArController.aspectRatio),
+          aspectRatio: (4/3),
           child: Platform.isAndroid ? _androidView() : _iOSView()),
     );
   }
